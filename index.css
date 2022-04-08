@@ -1,0 +1,52 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    /* background-image: url("images/table.jpg"); */
+    /* background-size: cover;  */
+    text-align: left;
+    color: #333;
+    font-weight: bold;
+}
+
+h1 {
+    color: #333; 
+}
+
+#map { height: 400;
+         }
+
+button {
+    font-weight: bold;
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    /* color: #016f32; */
+    /* width: 150px;  */
+    /* background: goldenrod;  */
+    /* padding-top: 5px;  */
+    /* padding-bottom: 5px;  */
+    /* margin-bottom: 2px; 
+    margin-top: 2px;  */
+}
+
+input[type=text] {
+    font-weight: bold;
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+}
+
+input[type=submit] {
+    font-weight: bold;
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
