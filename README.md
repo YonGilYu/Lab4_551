@@ -3,7 +3,9 @@ STEP 1
 Learn about MQTT and WebSockets
 
 STEP 2
-A website to determine the MQTT message broker host and port was created. Download MQTTX app and connect to host
+A website to determine the MQTT message broker host and port was created. Download MQTTX app and connect to host 
+Host: test.mosquitto.org
+Port: 1883 (to connect)
 
 
 Tutorials:
